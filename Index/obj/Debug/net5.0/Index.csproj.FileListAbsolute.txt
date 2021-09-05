@@ -1,0 +1,16 @@
+D:\Nooji\Compiler\Index\bin\Debug\net5.0\Index.exe
+D:\Nooji\Compiler\Index\bin\Debug\net5.0\Index.deps.json
+D:\Nooji\Compiler\Index\bin\Debug\net5.0\Index.runtimeconfig.json
+D:\Nooji\Compiler\Index\bin\Debug\net5.0\Index.runtimeconfig.dev.json
+D:\Nooji\Compiler\Index\bin\Debug\net5.0\Index.dll
+D:\Nooji\Compiler\Index\bin\Debug\net5.0\ref\Index.dll
+D:\Nooji\Compiler\Index\bin\Debug\net5.0\Index.pdb
+D:\Nooji\Compiler\Index\obj\Debug\net5.0\Index.csproj.AssemblyReference.cache
+D:\Nooji\Compiler\Index\obj\Debug\net5.0\Index.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nooji\Compiler\Index\obj\Debug\net5.0\Index.AssemblyInfoInputs.cache
+D:\Nooji\Compiler\Index\obj\Debug\net5.0\Index.AssemblyInfo.cs
+D:\Nooji\Compiler\Index\obj\Debug\net5.0\Index.csproj.CoreCompileInputs.cache
+D:\Nooji\Compiler\Index\obj\Debug\net5.0\Index.dll
+D:\Nooji\Compiler\Index\obj\Debug\net5.0\ref\Index.dll
+D:\Nooji\Compiler\Index\obj\Debug\net5.0\Index.pdb
+D:\Nooji\Compiler\Index\obj\Debug\net5.0\Index.genruntimeconfig.cache
