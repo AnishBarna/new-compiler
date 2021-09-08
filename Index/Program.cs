@@ -30,6 +30,7 @@ namespace Index
 
                        Console.WriteLine();
                    }
+                   else Console.WriteLine();
 
                 }
             }
